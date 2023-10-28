@@ -1,1 +1,12 @@
+import datetime
+
+def days_left_until_exam(exam_date):
+    today = datetime.date.today()
+    days_left = (exam_date - today).days
+    return days_left
+
+# 设置高考日期
+exam_date = datetime.date(2022, 6, 7)
+
+print("距离高考还有", days_left_until_exam(exam_date), "天")
 
