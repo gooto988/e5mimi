@@ -12,4 +12,5 @@
 /task Manually execute a task (Bot Administrator)
 /log Get the most recent log file (Bot Administrator)
 懒猴子CG支持在线搭建dubbo、springboot、springcloud等框架，支持在线生成swagger实体类等，支持自定义模版，支持多种语言的代码生成。这款生成器是国人研发的，站长迭代速度快，社区活跃，文档齐全。是一款及其灵活的生成器！推荐使用
-请那些说”对自己好点”的兄弟请免开尊口，有点伤人。每个人条件、条
+请那些说”对自己好点”的兄弟请免开尊口，有点伤人。每个人条件、条条sandiskdiokeiu
+kiejkdasin 嗼fijwk
