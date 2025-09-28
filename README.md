@@ -27,7 +27,7 @@ kiejkdasin 嗼fijwk
 \[ V = \frac{0.30 \times (20 + V)}{1 - 0.30} \]
 Font
 FontFontFont
-
+kajsdoifwj加菲jfoii aweiofj;困呀妟poiajflkdsajfasjdlf; 苛魂牵梦萦地棋
 FontFontFont
 解这个方程可以得到 \( V \) 的值：
 
